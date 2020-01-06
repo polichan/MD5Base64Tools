@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d90fd70-8153-42ba-84aa-398ebc3f8c73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1VzlPSNZIydCmqb1b1H4JuwhpJQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager" selected="Application.EncodeUtil (2)">
+    <configuration name="EncodeUtil (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.EncodeUtil" />
+      <module name="zfsoft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncodeUtil (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="per.chenpengyu.EncodeUtil" />
+      <module name="zfsoft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="per.chenpengyu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncodeUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EncodeUtil" />
+      <module name="zfsoft" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="zfsoft" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.EncodeUtil" />
+      <item itemvalue="Application.EncodeUtil (1)" />
+      <item itemvalue="Application.EncodeUtil (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EncodeUtil (2)" />
+        <item itemvalue="Application.EncodeUtil (1)" />
+        <item itemvalue="Application.EncodeUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d90fd70-8153-42ba-84aa-398ebc3f8c73" name="Default Changelist" comment="" />
+      <created>1578263780338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578263780338</updated>
+      <workItem from="1578263784082" duration="6526000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="315" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1578312002798">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="477" y="315" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.828@0.23.1440.828" timestamp="1578312002798" />
+    <state width="1398" height="139" key="GridCell.Tab.0.bottom" timestamp="1578312020871">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="139" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1578312020871" />
+    <state width="1398" height="139" key="GridCell.Tab.0.center" timestamp="1578312020871">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="139" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1578312020871" />
+    <state width="1398" height="139" key="GridCell.Tab.0.left" timestamp="1578312020870">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="139" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1578312020870" />
+    <state width="1398" height="139" key="GridCell.Tab.0.right" timestamp="1578312020871">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="139" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1578312020871" />
+    <state x="397" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1578263786360">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="397" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1578263786360" />
+  </component>
+</project>
